@@ -38,7 +38,6 @@
 - lastaname
 - course
 
-
 ## EXAM SESSIONS
 
 - id
